@@ -12,7 +12,7 @@ int _strien_recursion(char *s)
 	if (*s)
 	{
 		len++;
-		len += _strein_recursion(s + 1);
+		len += _strien_recursion(s + 1);
 	}
 
 	return (len);
