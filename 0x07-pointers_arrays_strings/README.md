@@ -1,1 +1,1 @@
-0x07 pointers arrays strings more pointers
+My primary goal of hacking was the intellectual curiosity, the seduction of adventure
